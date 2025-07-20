@@ -1,4 +1,7 @@
----
+---nukun
+![Screenshot_20250719_204712](https://github.com/user-attachments/assets/62bf40ff-c4f7-43c6-8c49-668a193b
+b5bf)
+
 title: "Web Content Accessibility Guidelines (WCAG) 2 Level AA Conformance"
 title_html: "Web Content Accessibility Guidelines (WCAG) 2<br>Level AA Conformance"
 lang: en
@@ -29,7 +32,8 @@ feedbackmail: wai@w3.org
   <h2>Learn More</h2>
   <p>To learn more, please see:</p>
   <ul>
-    <li><strong><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/" rel="nofollow">Introduction to Web Accessibility</a></strong></li>
+    <li><strong><a href="https://www.w3.org/WAI/fundamentals/accessib![Screenshot_20250719_204712](https://github.com/user-attachments/assets/045c35ba-0c44-4aa7-934a-a61e4d1d3378)
+ility-intro/" rel="nofollow">Introduction to Web Accessibility</a></strong></li>
     <li><strong><a href="https://www.w3.org/WAI/standards-guidelines/wcag/" rel="nofollow">Web Content Accessibility Guidelines (WCAG) Overview</a></strong></li>
   </ul>
   <p><em>(Content providers: see also <a href="https://www.w3.org/WAI/standards-guidelines/wcag/conformance-logos" rel="nofollow">Adding WCAG Conformance Logos</a>.)</em></p>
